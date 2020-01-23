@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace VEzba
+namespace OldestPerson
 {
 	class Person
 	{
@@ -19,7 +19,7 @@ namespace VEzba
 		}
 		public string GetName()
 		{
-			return "The oldest person is :" + Name.ToString();
+			return "The oldest person is: " + Name.ToString() + " " +  LastName.ToString();
 		}
 		public void AddAge(int age)
 		{

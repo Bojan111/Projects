@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace VEzba
+namespace OldestPerson
 {
 	class Addreses
 	{

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace TestImot
+namespace Imot
 {
 	class Program
 	{

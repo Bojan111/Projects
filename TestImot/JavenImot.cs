@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TestImot
+namespace Imot
 {
 	class JavenImot : Imot
 	{

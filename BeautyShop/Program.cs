@@ -13,6 +13,7 @@ namespace BeautyShop
 				var name = Console.ReadLine();
 				if(name == "q")
 				{
+					Console.WriteLine("Bye!");
 					break;
 				}
 				var costumer = new Costumer();

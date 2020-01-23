@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TestZoo
+namespace Zoo
 {
 	abstract class Animal
 	{

@@ -1,18 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace VEzba
+namespace OldestPerson
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Enter People");
+			Console.Write("Enter People(number): ");
 			var people = new List<Person>();
 			var count = int.Parse(Console.ReadLine());
 			for (int i = 0; i < count; i++)
 			{
-				Console.WriteLine($"Enter {i + 1} number of people");
+				Console.WriteLine($"Enter {i + 1} number of person:");
 				Console.Write("Enter FirstName: ");
 				var name = Console.ReadLine();
 				Console.Write("Enter LastName: ");
