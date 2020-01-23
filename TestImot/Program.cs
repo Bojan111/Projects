@@ -22,7 +22,7 @@ namespace Imot
 				}
 
 				Console.Write("Povrsina: ");
-				var p = int.Parse(Console.ReadLine());
+				qvar p = int.Parse(Console.ReadLine());
 
 				Console.Write("Lokacija: ");
 				var l = Console.ReadLine();
